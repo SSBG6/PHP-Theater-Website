@@ -1,0 +1,132 @@
+.logo{
+    cursor: pointer;
+    background-color: #393E46;
+
+}
+ul {
+    list-style-type:none;
+    margin: 10;
+    padding: 10;
+    background-color: #222831;
+}
+
+li a{
+    display:inline-block;
+    color: #EEEEEE;
+    text-align:center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+  
+li a:hover {
+    background-color: #393E46;
+    color: #FFD369;
+}
+
+a{
+    color: #EEEEEE;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    color: #EEEEEE;
+    text-align:center;
+    
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    color: #EEEEEE;
+    text-align:center;
+    
+}
+.log {
+    position: relative;
+    align-items: center;
+    height: 50%;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: #393E46;
+    opacity: 80%;
+}
+.log2 {
+    position: relative;
+    align-items: center;
+    height: 50%;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: #393E46;
+    opacity: 80%;
+}
+.log3 {
+    position: relative;
+    align-items: center;
+    height: 50%;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: #EEEEEE;
+    opacity: 80%;
+}
+.log4 {
+    position: relative;
+    align-items: center;
+    height: 50%;
+    width: 750px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: #393E46;
+    opacity: 80%;
+}
+b{
+    color: #EEEEEE;
+    text-align:center;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+.ye{
+    display:inline-block;
+    color: #EEEEEE;
+    text-align:center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+.ye:hover{
+    color: #393E46; 
+    background-color: #FFD369;
+}
+
+.submits{
+    display:inline-block;
+    color: #EEEEEE;
+    text-align:center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    background-color: #393E46;
+}
+
+.submits:hover{
+    background-color: #FFD369;
+    color: #393E46; 
+}
+
+.c{
+    position: relative;
+    align-items: center;  
+    padding: 10;
+    height: 50%;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
